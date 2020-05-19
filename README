@@ -1,0 +1,12 @@
+-------------------------------------
+  Numerical Optimization Package
+-------------------------------------
+
+Computational tools have revolutionized the design process of engineering 
+systems, but many established codes are unavailable for general public use, 
+and may be largely expensive. This project aims at making such disruptive 
+innovations in the field of design optimization as a freely available package,
+and involving everyone into its creation and development.
+
+The source code is implemented in C++, and plans to include other languages
+based on our expertise. Contributions are welcome in this respect.
